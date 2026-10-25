@@ -28,7 +28,7 @@ We like to make post-apocalyptic style 2D/3D games and are already working on so
 ## 📬 Connect With Us
 
 - **Website:** [STILL-IN-PROGRESS](https://github.com/Smoking-Ducks/)
-- **Email:** [smokingducks.co@gmail.com](smokingducks.co@gmail.com)
+- **Email:** smokingducks.co@gmail.com
 - **YouTube / Devlogs:** [Watch Our Devlogs](https://www.youtube.com/@LiteDuck1986)
 
 ---
