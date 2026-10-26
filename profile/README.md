@@ -21,7 +21,7 @@ We like to make post-apocalyptic style 2D/3D games and are already working on so
 
 | Project Name | Type | Description | Status |
 | :--- | :---: | :--- | :---: |
-| **[STILL-IN-PROGRESS](#)** | `3D` | An immersive 3D game where you drive a beat-up car across the country to reach an evacuation helicopter. | 🟡 In Development |
+| **[Wreck to Earn](#)** | `3D` | An immersive 3D game where you drive a beat-up car across the country to reach an evacuation helicopter. | 🟡 In Development |
 
 ---
 
